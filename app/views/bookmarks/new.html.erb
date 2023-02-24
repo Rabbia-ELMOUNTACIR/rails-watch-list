@@ -1,0 +1,7 @@
+<%= render "form", bookmark: @bookmark %>
+
+<%= form_with model: @bookmark do |f| %>
+  <%= f.label :comment %>
+  <%= f.text_field :comment %>
+  <%= f.submit %>
+<% end %>

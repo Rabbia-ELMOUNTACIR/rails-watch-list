@@ -1,0 +1,22 @@
+current directory: /root/code/Rabbia-ELMOUNTACIR/rails-watch-list/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+/root/.rbenv/versions/3.1.2/bin/ruby -I /root/.rbenv/versions/3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+checking for termios.h... yes
+checking for cfmakeraw() in termios.h... yes
+checking for sys/ioctl.h... yes
+checking for HAVE_RUBY_FIBER_SCHEDULER_H... yes
+creating Makefile
+
+current directory: /root/code/Rabbia-ELMOUNTACIR/rails-watch-list/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230224-15632-89vrzt sitelibdir\=./.gem.20230224-15632-89vrzt clean
+
+current directory: /root/code/Rabbia-ELMOUNTACIR/rails-watch-list/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230224-15632-89vrzt sitelibdir\=./.gem.20230224-15632-89vrzt
+compiling console.c
+linking shared-object io/console.so
+
+current directory: /root/code/Rabbia-ELMOUNTACIR/rails-watch-list/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230224-15632-89vrzt sitelibdir\=./.gem.20230224-15632-89vrzt install
+/usr/bin/install -c -m 0755 console.so ./.gem.20230224-15632-89vrzt/io
+
+current directory: /root/code/Rabbia-ELMOUNTACIR/rails-watch-list/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230224-15632-89vrzt sitelibdir\=./.gem.20230224-15632-89vrzt clean

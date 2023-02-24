@@ -1,0 +1,20 @@
+current directory: /root/code/Rabbia-ELMOUNTACIR/rails-watch-list/vendor/bundle/ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+/root/.rbenv/versions/3.1.2/bin/ruby -I /root/.rbenv/versions/3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /root/code/Rabbia-ELMOUNTACIR/rails-watch-list/vendor/bundle/ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230224-15632-1iq9a2 sitelibdir\=./.gem.20230224-15632-1iq9a2 clean
+
+current directory: /root/code/Rabbia-ELMOUNTACIR/rails-watch-list/vendor/bundle/ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230224-15632-1iq9a2 sitelibdir\=./.gem.20230224-15632-1iq9a2
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /root/code/Rabbia-ELMOUNTACIR/rails-watch-list/vendor/bundle/ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230224-15632-1iq9a2 sitelibdir\=./.gem.20230224-15632-1iq9a2 install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20230224-15632-1iq9a2/racc
+
+current directory: /root/code/Rabbia-ELMOUNTACIR/rails-watch-list/vendor/bundle/ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230224-15632-1iq9a2 sitelibdir\=./.gem.20230224-15632-1iq9a2 clean

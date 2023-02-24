@@ -1,0 +1,18 @@
+current directory: /root/code/Rabbia-ELMOUNTACIR/rails-watch-list/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+/root/.rbenv/versions/3.1.2/bin/ruby -I /root/.rbenv/versions/3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /root/code/Rabbia-ELMOUNTACIR/rails-watch-list/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230224-15632-an9add sitelibdir\=./.gem.20230224-15632-an9add clean
+
+current directory: /root/code/Rabbia-ELMOUNTACIR/rails-watch-list/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230224-15632-an9add sitelibdir\=./.gem.20230224-15632-an9add
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /root/code/Rabbia-ELMOUNTACIR/rails-watch-list/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230224-15632-an9add sitelibdir\=./.gem.20230224-15632-an9add install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20230224-15632-an9add/bootsnap
+
+current directory: /root/code/Rabbia-ELMOUNTACIR/rails-watch-list/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230224-15632-an9add sitelibdir\=./.gem.20230224-15632-an9add clean

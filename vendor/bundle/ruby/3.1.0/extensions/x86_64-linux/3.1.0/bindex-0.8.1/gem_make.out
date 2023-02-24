@@ -1,0 +1,18 @@
+current directory: /root/code/Rabbia-ELMOUNTACIR/rails-watch-list/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+/root/.rbenv/versions/3.1.2/bin/ruby -I /root/.rbenv/versions/3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /root/code/Rabbia-ELMOUNTACIR/rails-watch-list/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230224-15632-8chhmn sitelibdir\=./.gem.20230224-15632-8chhmn clean
+
+current directory: /root/code/Rabbia-ELMOUNTACIR/rails-watch-list/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230224-15632-8chhmn sitelibdir\=./.gem.20230224-15632-8chhmn
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /root/code/Rabbia-ELMOUNTACIR/rails-watch-list/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230224-15632-8chhmn sitelibdir\=./.gem.20230224-15632-8chhmn install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20230224-15632-8chhmn/skiptrace/internal
+
+current directory: /root/code/Rabbia-ELMOUNTACIR/rails-watch-list/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230224-15632-8chhmn sitelibdir\=./.gem.20230224-15632-8chhmn clean
